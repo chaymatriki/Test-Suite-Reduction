@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.core.DefaultInterceptorStackTest.executesTheFirstHandler</test>
+    <test>br.com.caelum.vraptor.controller.DefaultControllerInstanceTest.shouldUnwrapCDIProxyFromControllerType</test>
+    <test>br.com.caelum.vraptor.observer.InstantiateObserverTest.shouldUseContainerForNewComponent</test>
+    <test>br.com.caelum.vraptor.interceptor.WithAnnotationAcceptorTest.shouldNotAcceptsAnyMethodsInsideNonAnnotatedClass</test>
+    <test>br.com.caelum.vraptor.core.DefaultInterceptorStackTest.firesStartEventOnStart</test>
+    <test>br.com.caelum.vraptor.core.DefaultInterceptorStackTest.firesEndOfStackIfAllInterceptorsWereExecuted</test>
+    <test>br.com.caelum.vraptor.validator.MethodValidatorTest.shouldValidateMethodWithConstraint</test>
+    <test>br.com.caelum.vraptor.interceptor.WithAnnotationAcceptorTest.shouldAcceptsAllMethodsInsideAnnotatedClass</test>
+    <test>br.com.caelum.vraptor.validator.MethodValidatorTest.shouldAcceptIfMethodHasConstraint</test>
+    <test>br.com.caelum.vraptor.interceptor.WithAnnotationAcceptorTest.shouldNotAcceptMethodWithoutAnnotation</test>
+    <test>br.com.caelum.vraptor.interceptor.WithAnnotationAcceptorTest.shouldAcceptMethodWithAnnotation</test>
+    <test>br.com.caelum.vraptor.core.DefaultInterceptorStackTest.doesntFireEndOfStackIfTheInterceptorsDontContinueTheStack</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

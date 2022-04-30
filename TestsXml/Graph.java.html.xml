@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.interceptor.TopologicalSortedInterceptorRegistryTest.respectsBeforeAndAfterAttribute</test>
+    <test>br.com.caelum.vraptor.interceptor.TopologicalSortedInterceptorRegistryTest.respectsAfterAttribute</test>
+    <test>br.com.caelum.vraptor.interceptor.TopologicalSortedInterceptorRegistryTest.failsOnCycles</test>
+    <test>br.com.caelum.vraptor.interceptor.TopologicalSortedInterceptorRegistryTest.respectsInsertionOrderIfNoRelationIsSet</test>
+    <test>br.com.caelum.vraptor.interceptor.TopologicalSortedInterceptorRegistryTest.returnsRegisteredClasses</test>
+    <test>br.com.caelum.vraptor.ioc.cdi.CDIBasedContainerTest.shoudRegisterResourcesInRouter</test>
+    <test>br.com.caelum.vraptor.interceptor.TopologicalSortedInterceptorRegistryTest.respectsBeforeAttribute</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

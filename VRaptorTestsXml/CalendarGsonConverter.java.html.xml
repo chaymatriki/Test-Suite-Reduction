@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeWithoutRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeTwoParams</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeOneParam</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeADogWithCalendarWithISO8601</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeCalendarTimeWithISO8601</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

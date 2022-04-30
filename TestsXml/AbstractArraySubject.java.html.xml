@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.ObjectArraySubjectTest.hasLengthFail</test>
+    <test>com.google.common.truth.ObjectArraySubjectTest.isEmptyFail</test>
+    <test>com.google.common.truth.ObjectArraySubjectTest.isEmpty</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_callerException</test>
+    <test>com.google.common.truth.ObjectArraySubjectTest.isNotEmpty</test>
+    <test>com.google.common.truth.PrimitiveIntArraySubjectTest.isNotEmpty</test>
+    <test>com.google.common.truth.ObjectArraySubjectTest.isNotEmptyFail</test>
+    <test>com.google.common.truth.PrimitiveIntArraySubjectTest.isEmptyFail</test>
+    <test>com.google.common.truth.PrimitiveIntArraySubjectTest.isEmpty</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_simpleCase</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_loop</test>
+    <test>com.google.common.truth.ObjectArraySubjectTest.hasLengthMultiFail</test>
+    <test>com.google.common.truth.PrimitiveIntArraySubjectTest.hasLengthNegative</test>
+    <test>com.google.common.truth.StackTraceCleanerTest.realWorld</test>
+    <test>com.google.common.truth.ObjectArraySubjectTest.hasLength</test>
+    <test>com.google.common.truth.PrimitiveIntArraySubjectTest.isNotEmptyFail</test>
+    <test>com.google.common.truth.ObjectArraySubjectTest.hasLengthNegative</test>
+    <test>com.google.common.truth.PrimitiveIntArraySubjectTest.hasLength</test>
+    <test>com.google.common.truth.PrimitiveIntArraySubjectTest.hasLengthFail</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

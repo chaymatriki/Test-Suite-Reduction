@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.core.DefaultStaticContentHandlerTest.returnsTrueForRealStaticResourcesWithQueryString</test>
+    <test>br.com.caelum.vraptor.core.DefaultStaticContentHandlerTest.returnsTrueForRealStaticResources</test>
+    <test>br.com.caelum.vraptor.core.DefaultStaticContentHandlerTest.returnsTrueForRealStaticResourcesWithJSessionId</test>
+    <test>br.com.caelum.vraptor.core.DefaultStaticContentHandlerTest.returnsFalseForNonStaticResources</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

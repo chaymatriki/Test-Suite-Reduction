@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldAccessCollection</test>
+    <test>br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldAccessArray</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.shouldTranslatePatternArgInternalNullAsEmpty</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.shouldTranslatePatternArgsWithMultipleRegexes</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.fillURLWithGreedyParameters</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.shouldUseConverterIfItExists</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.shouldTranslatePatternArgs</test>
+    <test>br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldInvokeAIsDeclaredOnSuperClass</test>
+    <test>br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldReturnEmptyStringIfTheResultIsNull</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.shouldTranslatePatternArgNullAsEmpty</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.shouldTranslatePatternArgsWithRegex</test>
+    <test>br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldInvokeAIs</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.shouldEncodeUriParameters</test>
+    <test>br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldInvokeAGetterDeclaredOnSuperClass</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultParametersControlTest.fillURLWithoutGreedyParameters</test>
+    <test>br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldInvokeAGetter</test>
+    <test>br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldAccessList</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultRouterTest.shouldReturnTheFirstRouteFound</test>
+    <test>br.com.caelum.vraptor.http.route.JavaEvaluatorTest.shouldReturnEmptyStringIfNullWasFoundOnTheWay</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

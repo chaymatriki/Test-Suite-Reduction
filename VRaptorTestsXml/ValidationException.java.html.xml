@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnOk</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnConflict</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.forwardToCustomOnErrorPage</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnMethodNotAllowed</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldNotWrapValidationExceptionWhenForwarding</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnCreated</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.outjectsTheRequestParameters</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onSerializerResultsShouldBeAbleToCreateValidationInstancesEvenIfChildClassesUsesCovariantType</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnHeader</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onRefererResultShouldThrowExceptionsOnForward</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onHttpResultShouldThrowExceptionsOnSetStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnMoved</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onRefererResultShouldThrowExceptionsOnRedirect</test>
+    <test>br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldBeOkIfThereIsValidationErrorsAndYouSpecifiedWhereToGo</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.addsTheErrorsOnTheResult</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnCreatedWithLocation</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onHttpResultShouldThrowExceptionsOnSendErrorWithMessage</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnMovedPermanentlyToLogic</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnNotFound</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.shouldUseValidationVersionOfPageResult</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onXMLSerializationResultShouldThrowExceptionOnlyOnSerializeMethod</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnMovedToLogic</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.shouldUseValidationVersionOfEmptyResult</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onStatusResultShouldThrowExceptionsOnMovedPermanentlyTo</test>
+    <test>br.com.caelum.vraptor.core.ToInstantiateInterceptorHandlerTest.shouldCatchValidationExceptionOfValidatedInterceptor</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.testThatValidatorGoToRedirectsToTheErrorPageImmediatellyAndNotBeforeThis</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.onHttpResultShouldThrowExceptionsOnSendError</test>
+    <test>br.com.caelum.vraptor.view.DefaultValidationViewsFactoryTest.shouldUseValidationVersionOfLogicResult</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

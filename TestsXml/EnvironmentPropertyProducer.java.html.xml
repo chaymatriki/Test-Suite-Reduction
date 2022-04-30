@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldInjectAnEnvironmentProperty</test>
+    <test>br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldResultValueOfProperties</test>
+    <test>br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldInferKeyFromFieldName</test>
+    <test>br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldNotResolveUnexistentKeys</test>
+    <test>br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldResultDefaultValue</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

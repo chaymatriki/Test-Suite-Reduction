@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldInjectAnEnvironmentProperty</test>
+    <test>br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldResultValueOfProperties</test>
+    <test>br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldInferKeyFromFieldName</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldUseRootBasedFileIfNotFoundUnderEnvironmentFolder</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldUseSystemPropertiesWhenSysenvIsntPresent</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldTrimValueWhenEvaluatingSupports</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldLoadConfigurationInDefaultFileEnvironment</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldUseFalseWhenFeatureIsNotPresent</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldUseEnvironmentBasedFileIfFoundUnderEnvironmentFolder</test>
+    <test>br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldNotResolveUnexistentKeys</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldGetValueWhenIsPresent</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldThrowExceptionIfKeyDoesNotExist</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldUseContextInitParameterWhenSystemPropertiesIsntPresent</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldGetDefaultValueWhenIsntPresent</test>
+    <test>br.com.caelum.vraptor.environment.DefaultEnvironmentTest.shouldAllowApplicationToOverrideProperties</test>
+    <test>br.com.caelum.vraptor.environment.EnvironmentPropertyProducerTest.shouldResultDefaultValue</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.converter.PrimitiveByteConverterTest.shouldBeAbleToConvertNumbers</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveByteConverterTest.shouldConvertToZeroWhenNull</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveByteConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveByteConverterTest.shouldConvertToZeroWhenEmpty</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.validator.MessagesTest.shouldGroupMessagesFromSameCategory</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldAddMessageIfTrue</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.addsTheErrorsOnTheResult</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldReturnElementsForInvalidBean</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.forwardToCustomOnErrorPage</test>
+    <test>br.com.caelum.vraptor.validator.MessagesTest.shouldThrowExceptionIfMessagesHasUnhandledErrors</test>
+    <test>br.com.caelum.vraptor.validator.MessagesTest.shouldDisplayMessagesJoiningWithCommas</test>
+    <test>br.com.caelum.vraptor.validator.MessagesTest.shouldNotThrowExceptionIfMessagesHasNoErrorsAndHasOtherSeverityMessages</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldAddMessageIfEnsuringFails</test>
+    <test>br.com.caelum.vraptor.validator.MessagesTest.shouldGroupMessagesInMapFromSameCategory</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessages</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.outjectsTheRequestParameters</test>
+    <test>br.com.caelum.vraptor.validator.MessagesTest.testReturnMessagesBySeverity</test>
+    <test>br.com.caelum.vraptor.validator.MessagesTest.testElExpressionGettingMessagesByCaegory</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldntThrowExceptionWithEmptyMessageParameter</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldAddMessageIfCheckingFails</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldPrependAliasIfNotNull</test>
+    <test>br.com.caelum.vraptor.validator.MethodValidatorTest.shouldValidateMethodWithConstraint</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldParametrizeMessage</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.testThatValidatorGoToRedirectsToTheErrorPageImmediatellyAndNotBeforeThis</test>
+    <test>br.com.caelum.vraptor.validator.MessagesTest.shouldNotThrowExceptionIfMessagesHasNoUnhandledErrors</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessagesInJSON</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

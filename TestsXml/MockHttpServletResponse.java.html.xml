@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.util.test.MockSerializationResultTest.shouldReturnStringWithObjectSerialized</test>
+    <test>br.com.caelum.vraptor.util.test.MockHttpServletResponseTest.shouldBeAbleToReturnResponseStatusCode</test>
+    <test>br.com.caelum.vraptor.util.test.MockHttpServletResponseTest.shouldBeAbleToReturnContentIntoWriteAsString</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessages</test>
+    <test>br.com.caelum.vraptor.util.test.MockHttpResultTest.test</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessagesInJSON</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

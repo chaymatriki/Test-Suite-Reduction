@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWithoutRootAndParameterNameEqualsJsonProperty</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldHonorRequestHeaderAcceptCharset</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWhenMethodHasMoreThanOneArgumentAndHasNotRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogNamedDifferently</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeTwoParams</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWithoutRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWithDeserializerAdapter</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWhenMethodHasMoreThanOneArgument</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeWithoutRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.whenNoCharsetHeaderIsFoundThanAssumeItIsUTF8</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializerParseArraysWithRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADog</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeOneParam</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeADogWithCalendarWithISO8601</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeADateWithISO8601</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWhenMethodHasMoreThanOneArgumentAndJsonIsTheLastOne</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

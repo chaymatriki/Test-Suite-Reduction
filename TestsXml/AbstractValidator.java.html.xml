@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.validator.DefaultValidatorTest.addsTheErrorsOnTheResult</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldNotRedirectIfHasNotErrors</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.forwardToCustomOnErrorPage</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.testThatValidatorGoToRedirectsToTheErrorPageImmediatellyAndNotBeforeThis</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.outjectsTheRequestParameters</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

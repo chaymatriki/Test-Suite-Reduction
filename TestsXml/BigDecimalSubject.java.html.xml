@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.SubjectTest.allAssertThatOverloadsAcceptNull</test>
+    <test>com.google.common.truth.SubjectTest.nullPointerTester</test>
+    <test>com.google.common.truth.BigDecimalSubjectTest.isEquivalentAccordingToCompareTo</test>
+    <test>com.google.common.truth.BigDecimalSubjectTest.isEqualToIgnoringScale_bigDecimal</test>
+    <test>com.google.common.truth.BigDecimalSubjectTest.isEqualToIgnoringScale_string</test>
+    <test>com.google.common.truth.BigDecimalSubjectTest.isEqualToIgnoringScale_int</test>
+    <test>com.google.common.truth.BigDecimalSubjectTest.isEqualTo</test>
+    <test>com.google.common.truth.BigDecimalSubjectTest.isEqualToIgnoringScale_long</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

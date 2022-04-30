@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFormatDiff[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoreFieldOfSubMessage[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testReportingMismatchesOnly_isNotEqualTo[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_map[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsEntry[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFullDiffOnlyWhenRelevant[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_unknownFields[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoreFieldOfSubMessage[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testAnyMessageCompareWithEmptyAnyMessage[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testMultipleFieldNumbers[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringFieldAbsence[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoreSubMessageField[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoreSubMessageField[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFieldNumbersAreRecursive[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringFieldAbsence_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testDisplayingDiffsPairedBy[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testUnknownFields[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsEntry[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFormatDiff[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testUnknownFields[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testComparingExpectedFieldsOnly[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_unionsElements[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testDisplayingDiffsPairedBy[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoringTopLevelField_ignoringField[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testReportingMismatchesOnly_isEqualTo[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFieldNumbersAreRecursive[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testAnyMessagesWithDifferentTypes[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testAnyMessageCompareWithEmptyAnyMessage[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoringTopLevelAnyField_ignoringField[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testComparingExpectedFieldsOnly[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringFieldAbsence[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoringAllButOneFieldOfSubMessage[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testAnyMessagesWithDifferentTypes[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoringTopLevelField_ignoringField[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoringFieldOfAnyMessage[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_unknownFields[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testReportingMismatchesOnly_isNotEqualTo[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoringFieldOfAnyMessage[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringFieldAbsence_anyMessage[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testReportingMismatchesOnly_isEqualTo[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_map[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoringAllButOneFieldOfSubMessage[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringFieldAbsence_anyMessage[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringFieldAbsence_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIgnoringTopLevelAnyField_ignoringField[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFullDiffOnlyWhenRelevant[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testMultipleFieldNumbers[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_unionsElements[PROTO3]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

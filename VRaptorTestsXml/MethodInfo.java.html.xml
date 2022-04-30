@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.observer.DeserializingObserverTest.willSetMethodParametersWithDeserializationAndContinueStackAfterDeserialization</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldAllowCustomPathResolverWhileForwardingView</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldNotWrapValidationExceptionWhenForwarding</test>
+    <test>br.com.caelum.vraptor.core.MethodInfoTest.should_clear_valued_parameters_when_controller_method_is_updated</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowApplicationLogicExceptionIfServletExceptionOccursWhileForwardingView</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldAllowCustomPathResolverWhileIncluding</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldConvertArrayParametersToIndexParameters</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldNotAddHeaderInformationToRequestWhenHeaderParamAnnotationIsNotPresent</test>
+    <test>br.com.caelum.vraptor.observer.DeserializingObserverTest.willDeserializeForAnyContentTypeIfPossible</test>
+    <test>br.com.caelum.vraptor.observer.DeserializingAndInstantiatorIntegrationTest.shouldDeserializeWhenInstantiatorRunsAfter</test>
+    <test>br.com.caelum.vraptor.observer.DeserializingAndInstantiatorIntegrationTest.shouldDeserializeWhenInstantiatorRunsBefore</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldNotAddHeaderInformationToRequestIfHeaderParamValueIsNull</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldThrowExceptionWhenThereIsAParameterContainingDotClass</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfServletExceptionOccursWhileIncluding</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldAddHeaderInformationToRequestWhenHeaderParamAnnotationIsPresent</test>
+    <test>br.com.caelum.vraptor.observer.DeserializingObserverTest.willSetOnlyNonNullParameters</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldUseTheProvidedParameters</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfIOExceptionOccursWhileForwardingView</test>
+    <test>br.com.caelum.vraptor.validator.MethodValidatorTest.shouldAcceptIfMethodHasConstraint</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldForwardToTheRightDefaultValue</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldNotAcceptIfMethodHasNoParameters</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldIncludeReturnValueOnForward</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldForwardToMethodsDefaultViewWhenResponseIsNotCommited</test>
+    <test>br.com.caelum.vraptor.observer.DeserializingObserverTest.willSetMethodParametersWithDeserializationEvenIfTheContentTypeHasCharsetDeclaration</test>
+    <test>br.com.caelum.vraptor.observer.DeserializingObserverTest.shouldNotDeserializeIfHasNoContentType</test>
+    <test>br.com.caelum.vraptor.validator.ReplicatorOutjectorTest.shouldReplicateMethodParametersToNextRequest</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldValidateParameters</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfIOExceptionOccursWhileIncluding</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldNotForwardToMethodsDefaultViewWhenResponseIsCommited</test>
+    <test>br.com.caelum.vraptor.validator.MethodValidatorTest.shouldValidateMethodWithConstraint</test>
+    <test>br.com.caelum.vraptor.observer.ParametersInstantiatorTest.shouldUseAndDiscardFlashParameters</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldExecuteTheLogicAndRedirectToItsViewOnForward</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

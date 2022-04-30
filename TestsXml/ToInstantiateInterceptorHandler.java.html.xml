@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.core.ToInstantiateInterceptorHandlerTest.shouldNotInvokeInterceptorsMethodIfInterceptorDoesntAcceptsResource</test>
+    <test>br.com.caelum.vraptor.core.ToInstantiateInterceptorHandlerTest.shouldCatchValidationExceptionOfValidatedInterceptor</test>
+    <test>br.com.caelum.vraptor.core.ToInstantiateInterceptorHandlerTest.shouldComplainWhenUnableToInstantiateAnInterceptor</test>
+    <test>br.com.caelum.vraptor.core.ToInstantiateInterceptorHandlerTest.shouldInvokeInterceptorsMethodIfAbleToInstantiateIt</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

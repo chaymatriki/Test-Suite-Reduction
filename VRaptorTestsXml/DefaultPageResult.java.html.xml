@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.view.DefaultPageResultTest.shouldAllowCustomPathResolverWhileForwardingView</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowApplicationLogicExceptionIfServletExceptionOccursWhileForwardingView</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldForwardToGivenURI</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldAllowCustomPathResolverWhileIncluding</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfIOExceptionOccursWhileForwarding</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldRedirectIncludingContext</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfServletExceptionOccursWhileForwarding</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfIOExceptionOccursWhileIncluding</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfServletExceptionOccursWhileIncluding</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldNotIncludeContextPathIfURIIsAbsolute</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfIOExceptionOccursWhileRedirect</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shoudNotExecuteLogicWhenUsingResultOf</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shouldThrowResultExceptionIfIOExceptionOccursWhileForwardingView</test>
+    <test>br.com.caelum.vraptor.view.DefaultPageResultTest.shoudThrowProxyInvocationExceptionIfAndExceptionOccursWhenUsingResultOf</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldForwardToTheRightDefaultValue</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

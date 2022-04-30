@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.http.EncodingHandlerTest.shouldReturnWebxmlValueWhenThereIsAnEncodingInitParameter</test>
+    <test>br.com.caelum.vraptor.ioc.RequestStartedFactoryTest.shouldRunVRaptorStackIfVRaptorRequestStartedEventIsFired</test>
+    <test>br.com.caelum.vraptor.http.EncodingHandlerTest.shouldReturnDefaultCharsetWhenThereIsNoEncodingInitParameter</test>
+    <test>br.com.caelum.vraptor.ioc.RequestStartedFactoryTest.shouldNotRunVRaptorStackIfVRaptorRequestStartedEventNotFired</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

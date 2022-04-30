@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactly_noArgs[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIterableFieldScopeMethodVariants_multimapWithProtoValuesSubject[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testPlain_valuesForKey[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testCompareMultipleMessageTypes[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactlyEntriesIn[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactly_noArgs[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_valuesForKey[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactly[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.OverloadResolutionTest.testMultimapOverloads_testMessages_specializedMethods</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIterableFieldScopeMethodVariants_multimapWithProtoValuesSubject[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactlyEntriesIn[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsEntry[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactly[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.OverloadResolutionTest.testMultimapOverloads_assertAbout_listAndSet</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_valuesForKey[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testPlain_valuesForKey[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsEntry[PROTO3]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

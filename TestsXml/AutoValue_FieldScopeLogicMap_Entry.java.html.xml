@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.ProtoSubjectTest.testDoubleTolerance[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testDoubleTolerance[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFloatTolerance_defaultValue[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFloatTolerance_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFloatTolerance_defaultValue[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testDoubleTolerance_defaultValue[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testDoubleTolerance_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFloatTolerance[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testDoubleTolerance_defaultValue[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testDoubleTolerance_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFloatTolerance[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFloatTolerance_scoped[PROTO3]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

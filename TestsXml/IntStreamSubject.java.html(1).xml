@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.IntStreamSubjectTest.testDoesNotContain</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsNotEmpty</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactly_inOrder</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsNoneIn_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAtLeastElementsIn_inOrder_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactly_inOrder_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAtLeast_inOrder</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsEmpty</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAtLeastElementsIn_inOrder</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsSameInstanceAs</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAnyOf_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsNoDuplicates_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactly</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsInOrder_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContains_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testHasSize</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactlyElementsIn_inOrder</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testNullStream_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAnyOf</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactlyElementsIn_inOrder_intStream</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsInStrictOrder</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsEqualToList</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsNoneOf_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAtLeast_inOrder_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAtLeastElementsIn</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsNoneOf</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactlyElementsIn_inOrder_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContains</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsNotEmpty_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsNoneIn</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAnyIn_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testHasSize_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testDoesNotContain_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsEqualTo</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testNullStreamIsNull</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAtLeast</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactlyElementsIn_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAtLeastElementsIn_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsEmpty_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsNoDuplicates</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAnyIn</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactlyElementsIn</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsAtLeast_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testContainsExactly_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsInStrictOrder_fails</test>
+    <test>com.google.common.truth.IntStreamSubjectTest.testIsInOrder</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

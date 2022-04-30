@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetMovedPermanentlyStatusOfLogic</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetNotFoundStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessages</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetCreatedStatusAndLocationWithAppPath</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetHeader</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetCreatedStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetMovedPermanentlyStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetAcceptedStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetNotImplementedStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetConflictStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetMethodNotAllowedStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetOkStatus</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldMoveToExactlyURIWhenItIsNotAbsolute</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessagesInJSON</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSetInternalServerErrorStatus</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

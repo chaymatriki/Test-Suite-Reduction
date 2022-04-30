@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.converter.ShortConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.BigIntegerConverterTest.shouldComplainAboutNonIntegerNumbers</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.addsValidationErrorsOnConvertionErrors</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveBooleanConverterTest.shouldThrowExceptionForInvalidString</test>
+    <test>br.com.caelum.vraptor.converter.BigIntegerConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.CalendarConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.willAddValidationMessagesForConversionErrors</test>
+    <test>br.com.caelum.vraptor.converter.DoubleConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.converter.FloatConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.converter.EnumConverterTest.shouldComplainAboutInvalidIndex</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveLongConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.DateConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveFloatConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveByteConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.BigDecimalConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.converter.CharacterConverterTest.shouldComplainAboutStringTooBig</test>
+    <test>br.com.caelum.vraptor.converter.LongConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.EnumConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.ByteConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveCharConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.EnumConverterTest.shouldComplainAboutInvalidOrdinal</test>
+    <test>br.com.caelum.vraptor.converter.IntegerConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveShortConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldThrowExceptionForInvalidString</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveDoubleConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.inCaseOfConversionErrorsOnlyNullifyTheProblematicParameter</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveIntConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.removeFromTheCollectionIfAnElementIsCreatedWithinACollectionButNoFieldIsSet</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.throwsExceptionWhenSetterFailsWithOtherException</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.addsValidationErrorsOnConvertionErrors</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.doesntReturnDependenciesIfItIsNotAnInterface</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.willAddValidationMessagesForConversionErrors</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingArraysWithOneElement</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithIndexedListsOfObjects</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsAnEmptyObjectArrayForZeroArityMethods</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.shouldnotInstantiateObjectWhenThereAreNoParameters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithStringArrays</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithSetsOfObjects</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingIndexedArraysWithOneElement</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsNullWhenInstantiatingAStringForWhichThereAreNoParameters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsASimpleValue</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.removeFromTheCollectionIfAnElementIsCreatedWithinACollectionButNoFieldIsSetAppartFromTheValueItselfNotAChild</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.removeFromTheCollectionIfAnElementIsCreatedWithinAnArrayButNoFieldIsSet</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.ignoresPopulationIfIfRequestCanProvide</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.willCreateATargerForEachFormalParameterDeclaredByTheMethod</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.shouldInstantiateTheObjectEvenWhenThereAreNoParameters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithGenericsAndMultipleParameters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsZeroForAPrimitiveWhenThereAreNoParameters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithGenerics</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsDependenciesIfRequestCanProvide</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.continuesToFillObjectWithSetIfItIsConvertable</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingArraysWithSeveralElements</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithLists</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.willCreateAnIogiParameterForEachRequestParameterValue</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfClassesThatHaveConverters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsNullWhenInstantiatingAListForWhichThereAreNoParameters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsDependenciesIfContainerCanProvide</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithIndexedStringArrays</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithStrings</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithIndexedLists</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.continuesToFillObjectIfItIsConvertable</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithEmptyParameterForInternalWrapperValue</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsNullWhenThereAreNoParameters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.continuesToFillObjectWithListIfItIsConvertable</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithSets</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.shouldInjectOnlyAttributesWithSameType</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.inCaseOfConversionErrorsOnlyNullifyTheProblematicParameter</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.canInjectADependencyProvidedByVraptor</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

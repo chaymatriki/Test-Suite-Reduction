@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.serialization.DefaultDeserializersTest.allDeserializersMustBeAnnotatedWithDeserializes</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultDeserializersTest.shouldNotCallDeserializerIfItDoesntAcceptGivenContentType</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultDeserializersTest.shouldUseTheDeserializerThatAcceptsTheGivenContentType</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultDeserializersTest.shouldThrowExceptionWhenThereIsNoDeserializerRegisteredForGivenContentType</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultDeserializersTest.shouldUseTheDeserializerThatAcceptsTheGivenContentTypeIfVendorized</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultDeserializersTest.shouldUseTheDeserializerThatAcceptsTheGivenContentTypeIfAtomizedAlike</test>
+    <test>br.com.caelum.vraptor.ioc.cdi.CDIBasedContainerTest.shoudRegisterResourcesInRouter</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

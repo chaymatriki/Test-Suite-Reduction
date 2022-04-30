@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_contains[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testCompareMultipleMessageTypes[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFormatDiff[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testReportingMismatchesOnly_isNotEqualTo[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsAny[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_empty[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsEntry[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_ignoringOrder[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsEntry[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsAtLeast[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.OverloadResolutionTest.testMultimapOverloads_assertAbout_listAndSet</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_valuesForKey[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_empty[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsAtLeast[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsNone[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsAny[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsExactly[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactlyEntriesIn[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testCompareMultipleMessageTypes[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testReportingMismatchesOnly_isNotEqualTo[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_valuesForKey[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactly[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_respectingOrder[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_respectingOrder[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactlyEntriesIn[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsNone[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsExactly[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsExactly[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_contains[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsExactly[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsEntry[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testCompareMultipleMessageTypes[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFormatDiff[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.OverloadResolutionTest.testObjectOverloads_testMessages_specializedMethods</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsExactly[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_ignoringOrder[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_containsEntry[PROTO3]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

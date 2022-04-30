@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.OptionalSubjectTest.isPresentFailing</test>
+    <test>com.google.common.truth.OptionalSubjectTest.isPresent</test>
+    <test>com.google.common.truth.OptionalSubjectTest.hasValue</test>
+    <test>com.google.common.truth.OptionalSubjectTest.isEmptyFailing</test>
+    <test>com.google.common.truth.OptionalSubjectTest.isPresentFailingNull</test>
+    <test>com.google.common.truth.OptionalSubjectTest.hasValue_failingWithEmpty</test>
+    <test>com.google.common.truth.OptionalSubjectTest.hasValue_failingWithWrongValue</test>
+    <test>com.google.common.truth.OptionalSubjectTest.isEmpty</test>
+    <test>com.google.common.truth.OptionalSubjectTest.isEmptyFailingNull</test>
+    <test>com.google.common.truth.OptionalSubjectTest.hasValue_npeWithNullParameter</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

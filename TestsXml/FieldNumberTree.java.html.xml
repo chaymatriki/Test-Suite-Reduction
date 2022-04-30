@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_skipNulls[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_unknownFields[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_empty[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_unknownFields[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_errorIfDescriptorMismatchesSubject[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testComparingExpectedFieldsOnly[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_correspondenceToString[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_correspondenceToString[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_empty[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testComparingExpectedFieldsOnly[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_unionsElements[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_unionsElements[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_skipNulls[IMMUTABLE_PROTO2]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

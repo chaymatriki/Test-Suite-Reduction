@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.TableSubjectTest.hasSizeNegative</test>
+    <test>com.google.common.truth.TableSubjectTest.doesNotContainCell</test>
+    <test>com.google.common.truth.TableSubjectTest.containsCell</test>
+    <test>com.google.common.truth.TableSubjectTest.tableIsNotEmptyWithFailure</test>
+    <test>com.google.common.truth.TableSubjectTest.tableIsEmpty</test>
+    <test>com.google.common.truth.TableSubjectTest.doesNotContainCellFailure</test>
+    <test>com.google.common.truth.TableSubjectTest.contains</test>
+    <test>com.google.common.truth.TableSubjectTest.containsCellFailure</test>
+    <test>com.google.common.truth.TableSubjectTest.hasSizeZero</test>
+    <test>com.google.common.truth.TableSubjectTest.doesNotContain</test>
+    <test>com.google.common.truth.TableSubjectTest.tableIsEmptyWithFailure</test>
+    <test>com.google.common.truth.TableSubjectTest.tableIsNotEmpty</test>
+    <test>com.google.common.truth.TableSubjectTest.containsFailure</test>
+    <test>com.google.common.truth.TableSubjectTest.hasSize</test>
+    <test>com.google.common.truth.TableSubjectTest.doesNotContainFailure</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

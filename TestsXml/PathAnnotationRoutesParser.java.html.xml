@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheControllerHasMoreThanOneAnnotatedPath</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultRouterTest.canTranslateAnnotatedMethodBothWays</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheGetControllerEndsWithSlashAndTheMethodAreAnnotatedWithAbsolutePath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.shouldAcceptAResultWithASpecificWebMethod</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.shouldThrowExceptionIfPathAnnotationHasEmptyArray</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheControllerAndTheMethodAreAnnotatedWithAbsolutePath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheControllerEndsWithSlashAndTheMethodAreAnnotatedWithEmptyPath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheGetControllerAndTheMethodAreAnnotatedWithRelativePath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.shouldFindSeveralPathsForMethodWithManyValue</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultRouterTest.canFindUrlForProxyClasses</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheControllerIsAnnotatedWithPath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheGetControllerAndTheMethodAreAnnotatedWithAbsolutePath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsASlashWhenUserForgotIt</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.supportMethodOverriding</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultRouterTest.canTranslateAInheritedControllerBothWays</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultRouterTest.shouldCacheInvocationsAfterFirstCall</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheGetControllerIsAnnotatedWithPath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.findsInheritedMethodsWithDefaultNames</test>
+    <test>br.com.caelum.vraptor.ioc.cdi.CDIBasedContainerTest.shoudRegisterResourcesInRouter</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheControllerAndTheMethodAreAnnotatedWithRelativePath</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultRouterTest.shouldReturnTheFirstRouteFound</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultRouterTest.usesAsteriskBothWays</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.suportsTheDefaultNameForANonAnnotatedMethod</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.shouldNotMatchIfAControllerHasTheWrongWebMethod</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.shouldAcceptAResultWithOptionsWebMethod</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.ignoresTheControllerSuffixForANonAnnotatedMethod</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.shouldAcceptAResultWithPatchWebMethod</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheControllerEndsWithSlashAndTheMethodAreAnnotatedWithAbsolutePath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.shouldFindNonAnnotatedNonStaticPublicMethodWithComponentNameInVariableCamelCaseConventionAsURI</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.dontRegisterRouteIfMethodIsNotPublic</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.throwsExceptionWhenTheGetControllerHasAmbiguousDeclaration</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.findsTheCorrectAnnotatedMethodIfThereIsNoWebMethodAnnotationPresent</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.supportOverrideTypeHttpMethodAnnotation</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheControllerAndTheMethodAreAnnotatedWithEmptyPath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.supportTypeHttpMethodAnnotation</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheControllerEndsWithSlashAndTheMethodAreAnnotatedWithRelativePath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.priorityForGetAnnotationShouldBeDefault</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.addsAPrefixToMethodsWhenTheGetControllerEndsWithSlashAndTheMethodAreAnnotatedWithRelativePath</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.dontRegisterRouteIfMethodIsStatic</test>
+    <test>br.com.caelum.vraptor.http.route.PathAnnotationRoutesParserTest.matchesWhenUsingAWildcard</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

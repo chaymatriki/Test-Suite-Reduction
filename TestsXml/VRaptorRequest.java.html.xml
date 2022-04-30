@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.canHandleTheCorrectMethod</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.canHandleUrlIfRootContext</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.returnsAllNamesOnlyOnce</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.canHandleUrlIfNonRootContextButPlainRequest</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.shouldThrowExceptionWhenRequestANotKnownMethod</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.supportsGreaterLengthArrays</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.canHandleUrlWithAppendedJSessionID</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.shouldAcceptCaseInsensitiveGetRequestUsingThe_methodParameter</test>
+    <test>br.com.caelum.vraptor.core.DefaultStaticContentHandlerTest.returnsTrueForRealStaticResourcesWithJSessionId</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.canHandleUrlIfNonRootContext</test>
+    <test>br.com.caelum.vraptor.core.DefaultStaticContentHandlerTest.returnsTrueForRealStaticResources</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.shouldAcceptCaseInsensitiveRequestMethods</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.strippsRootContextPath</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.shouldOverrideTheHttpMethodByUsingThe_methodParameter</test>
+    <test>br.com.caelum.vraptor.core.DefaultStaticContentHandlerTest.returnsFalseForNonStaticResources</test>
+    <test>br.com.caelum.vraptor.core.DefaultStaticContentHandlerTest.returnsTrueForRealStaticResourcesWithQueryString</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.canHandleComposedUrlIfPlainRootContext</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.canHandleComposedUrlIfNonRootContext</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.handlesInclude</test>
+    <test>br.com.caelum.vraptor.http.DefaultControllerTranslatorTest.canHandleUrlIfPlainRootContext</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.searchesOnAddedParameters</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.returnsBothMapsWithFirstOverridingSecond</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.allowsParametersToBeOverriden</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.searchesOnTheFallbackRequest</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.returnsNullIfNotFound</test>
+    <test>br.com.caelum.vraptor.http.VRaptorRequestTest.strippsContextPath</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

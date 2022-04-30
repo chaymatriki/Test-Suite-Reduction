@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.OptionalDoubleSubjectTest.isEmptyFailing</test>
+    <test>com.google.common.truth.OptionalDoubleSubjectTest.hasValue_FailingWithEmpty</test>
+    <test>com.google.common.truth.OptionalDoubleSubjectTest.failOnNullSubject</test>
+    <test>com.google.common.truth.OptionalDoubleSubjectTest.hasValue_FailingWithWrongValue</test>
+    <test>com.google.common.truth.OptionalDoubleSubjectTest.isEmpty</test>
+    <test>com.google.common.truth.OptionalDoubleSubjectTest.isPresentFailing</test>
+    <test>com.google.common.truth.OptionalDoubleSubjectTest.isPresent</test>
+    <test>com.google.common.truth.OptionalDoubleSubjectTest.isEmptyFailingNull</test>
+    <test>com.google.common.truth.OptionalDoubleSubjectTest.hasValue</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

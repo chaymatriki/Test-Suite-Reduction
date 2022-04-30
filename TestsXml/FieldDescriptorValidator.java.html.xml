@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringFieldAbsence_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFloatTolerance_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testDoubleTolerance_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testDoubleTolerance_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringFieldAbsence_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testFloatTolerance_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_scoped[IMMUTABLE_PROTO2]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

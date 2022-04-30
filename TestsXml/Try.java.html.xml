@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldBeOkIfThereIsValidationErrorsAndYouSpecifiedWhereToGo</test>
+    <test>br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldUseTheProvidedArguments</test>
+    <test>br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldThrowApplicationLogicExceptionIfItsACheckedException</test>
+    <test>br.com.caelum.vraptor.core.ToInstantiateInterceptorHandlerTest.shouldCatchValidationExceptionOfValidatedInterceptor</test>
+    <test>br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldThrowExceptionIfYouHaventSpecifiedWhereToGoOnValidationError</test>
+    <test>br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldThrowTheBusinessExceptionIfItsUnChecked</test>
+    <test>br.com.caelum.vraptor.core.ToInstantiateInterceptorHandlerTest.shouldInvokeInterceptorsMethodIfAbleToInstantiateIt</test>
+    <test>br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldSetResultReturnedValueFromInvokedMethod</test>
+    <test>br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldSetNullWhenNullReturnedFromInvokedMethod</test>
+    <test>br.com.caelum.vraptor.observer.ExecuteMethodTest.shouldInvokeTheMethodAndNotProceedWithInterceptorStack</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

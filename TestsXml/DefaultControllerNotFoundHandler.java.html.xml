@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.controller.ControllerNotFoundHandlerTest.shouldThrowInterceptionExceptionIfIOExceptionOccurs</test>
+    <test>br.com.caelum.vraptor.controller.ControllerNotFoundHandlerTest.shouldThrowInterceptionExceptionIfServletExceptionOccurs</test>
+    <test>br.com.caelum.vraptor.controller.ControllerNotFoundHandlerTest.couldntFindDefersRequestToContainer</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

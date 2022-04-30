@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.observer.download.DownloadObserverTest.whenResultIsAFileShouldCreateAFileDownload</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.shouldAcceptByte</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.whenResultIsADownloadShouldUseIt</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.shouldAcceptInput</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.shouldAcceptFile</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.whenResultIsAnInputStreamShouldCreateAByteArrayDownload</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.whenResultIsAnInputStreamShouldCreateAInputStreamDownload</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.shouldAcceptDownload</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.shouldNotAcceptStringReturn</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.whenResultWasUsedShouldDoNothing</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.whenResultIsNullShouldDoNothing</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

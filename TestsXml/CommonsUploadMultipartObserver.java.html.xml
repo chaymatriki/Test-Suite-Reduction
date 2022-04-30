@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.emptyFiles</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.withFilesAndFields</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.fieldsWithSameName</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.doNothingWhenFileUploadExceptionOccurs</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.mustConvertUnixPathToFileName</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.withFieldsOnlyWithInvalidCharset</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.shouldValidateWhenSizeLimitExceededExceptionOccursFromAnnotation</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.shouldValidateWhenSizeLimitExceededExceptionOccurs</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.handleValidatorMessageWhenFileUploadExceptionOccurs</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.mustConvertWindowsPathToFileName</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.checkIfFileHasBeenUploaded</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.shouldNotAcceptFormURLEncoded</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.shouldCreateDirInsideAppIfTempDirAreNotAvailable</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.multipleUpload</test>
+    <test>br.com.caelum.vraptor.observer.upload.CommonsUploadMultipartObserverTest.withFieldsOnly</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

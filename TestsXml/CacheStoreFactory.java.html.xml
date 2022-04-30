@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testJsonWithQualifier</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testHtml</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testPrecendenceInAComplexAcceptHeaderHtmlShouldPrevailWhenTied2</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.shouldReturnHtmlWhenRequestingUnknownAsFirstAndAnyContentType</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testJson</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testPrecendenceInABizzarreMSIE8AcceptHeader</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testPrecendenceInABizzarreMSIE8AcceptHeaderWithHtml</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testNull</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testXMLInAComplexAcceptHeaderWithParametersNotOrdered</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.shouldReturnHtmlWhenRequestingAnyContentType</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.shouldComplainIfThereIsNothingRegistered</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testPrecendenceInAComplexAcceptHeaderHtmlShouldPrevailWhenTied</test>
+    <test>br.com.caelum.vraptor.ioc.cdi.CDIBasedContainerTest.shoudRegisterResourcesInRouter</test>
+    <test>br.com.caelum.vraptor.ioc.cdi.CDIBasedContainerTest.shouldCreateComponentsWithCache</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testJsonInAComplexAcceptHeader</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.testJsonInAComplexAcceptHeaderWithParameters</test>
+    <test>br.com.caelum.vraptor.view.DefaultAcceptHeaderToFormatTest.shouldReturnHtmlWhenAcceptsIsBlankContentType</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

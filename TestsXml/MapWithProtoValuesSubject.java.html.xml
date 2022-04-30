@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsEntry[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsExactly[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIterableFieldScopeMethodVariants_mapWithProtoValuesSubject[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testCompareMultipleMessageTypes[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsEntry[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.OverloadResolutionTest.testMapOverloads_testMessages_specializedMethods</test>
+    <test>com.google.common.truth.extensions.proto.MapWithProtoValuesSubjectTest.testFluent_containsExactly[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIterableFieldScopeMethodVariants_mapWithProtoValuesSubject[IMMUTABLE_PROTO2]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

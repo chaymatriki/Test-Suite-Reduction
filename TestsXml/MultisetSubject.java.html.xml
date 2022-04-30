@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.MultisetSubjectTest.hasCountFail</test>
+    <test>com.google.common.truth.MultisetSubjectTest.hasCount</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

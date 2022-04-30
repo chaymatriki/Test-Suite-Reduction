@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.converter.BigIntegerConverterTest.shouldComplainAboutNonIntegerNumbers</test>
+    <test>br.com.caelum.vraptor.converter.BigIntegerConverterTest.shouldNotComplainAboutEmpty</test>
+    <test>br.com.caelum.vraptor.converter.BigIntegerConverterTest.shouldNotComplainAboutNull</test>
+    <test>br.com.caelum.vraptor.converter.BigIntegerConverterTest.shouldComplainAboutInvalidNumber</test>
+    <test>br.com.caelum.vraptor.converter.BigIntegerConverterTest.shouldBeAbleToConvertIntegerNumbers</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

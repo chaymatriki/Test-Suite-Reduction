@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.util.test.MockResultTest.shouldNotThrowNullPointersOnXmlResult</test>
+    <test>br.com.caelum.vraptor.util.test.MockResultTest.shouldNotThrowNullPointersOnLogicResult</test>
+    <test>br.com.caelum.vraptor.validator.DefaultValidatorTest.shouldNotRedirectIfHasNotErrors</test>
+    <test>br.com.caelum.vraptor.util.test.MockResultTest.shouldNotThrowNullPointersOnPageResult</test>
+    <test>br.com.caelum.vraptor.util.test.MockResultTest.shouldNotThrowNullPointersOnRepresentationResult</test>
+    <test>br.com.caelum.vraptor.util.test.MockResultTest.shouldNotThrowNullPointersOnJsonResult</test>
+    <test>br.com.caelum.vraptor.util.test.MockResultTest.shouldNotThrowNullPointersOnHttpResult</test>
+    <test>br.com.caelum.vraptor.util.test.MockResultTest.shouldNotThrowNullPointersOnStatusResult</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

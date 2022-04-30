@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeAcceptsWithoutArgs</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeNextIfNotAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeUsingBeforeAndAfter</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldNotInvokeIfDoesNotAccept</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldAcceptCustomizedAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeIfAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeAroundWithSimpleStack</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldAlwaysCallAround</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

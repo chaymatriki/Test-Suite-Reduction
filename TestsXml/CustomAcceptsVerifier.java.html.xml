@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeAcceptsWithoutArgs</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeUsingBeforeAndAfter</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAndInternalAcceptsValidationRuleTest.mustNotUseInternalAcceptsAndCustomAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAndInternalAcceptsValidationRuleTest.shouldValidateIfConstainsOnlyCustomAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldAcceptCustomizedAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeAroundWithSimpleStack</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldNotInvokeIfDoesNotHaveAround</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeNextIfNotAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAcceptsVerifierTest.shouldValidateWithOne</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldNotAcceptCustomizedAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldNotInvokeIfDoesNotAccept</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAndInternalAcceptsValidationRuleTest.shouldValidateIfConstainsOnlyInternalAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAcceptsVerifierTest.shouldEndProcessIfOneIsInvalid</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAcceptsVerifierTest.shouldValidateWithTwoOrMore</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeCustomAcceptsFailCallback</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeIfAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldAlwaysCallAround</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

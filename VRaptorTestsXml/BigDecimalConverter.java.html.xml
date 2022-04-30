@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.converter.BigDecimalConverterTest.shouldBeAbleToConvertEmpty</test>
+    <test>br.com.caelum.vraptor.converter.BigDecimalConverterTest.shouldBeAbleToConvertWithENUS</test>
+    <test>br.com.caelum.vraptor.converter.BigDecimalConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.converter.BigDecimalConverterTest.shouldBeAbleToConvertNull</test>
+    <test>br.com.caelum.vraptor.converter.BigDecimalConverterTest.shouldBeAbleToConvertWithPTBR</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

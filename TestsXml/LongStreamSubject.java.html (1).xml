@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.LongStreamSubjectTest.testIsInStrictOrder</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsNoneOf_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testHasSize</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactlyElementsIn_wrongType_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactly_inOrder_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsNoneIn_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactlyElementsIn_inOrder_LongStream</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsSameInstanceAs</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsInOrder_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactly_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAnyIn</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testNullStream_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsEqualToList</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeast_inOrder</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsNotEmpty</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAnyOf_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsInStrictOrder_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeastElementsIn_inOrder_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAnyOf</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsNotEmpty_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeast_inOrder_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeastElementsIn_wrongType_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeastElementsIn_inOrder</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testDoesNotContain_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactlyElementsIn</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeast</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactlyElementsIn_inOrder_wrongType_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsEmpty_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsNoDuplicates</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsNoDuplicates_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContains</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactly</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactlyElementsIn_inOrder_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactlyElementsIn_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeastElementsIn</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testNullStreamIsNull</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testDoesNotContain</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactlyElementsIn_inOrder</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testHasSize_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAnyIn_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsInOrder</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsNoneOf</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsExactly_inOrder</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsNoneIn</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsEqualTo</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeastElementsIn_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testIsEmpty</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeast_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContains_fails</test>
+    <test>com.google.common.truth.LongStreamSubjectTest.testContainsAtLeastElementsIn_inOrder_wrongType_fails</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

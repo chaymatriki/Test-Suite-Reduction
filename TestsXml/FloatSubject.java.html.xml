@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.FloatSubjectTest.isPositiveInfinity</test>
+    <test>com.google.common.truth.FloatSubjectTest.testFloatConstants_matchNextAfter</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNotWithinNonFinite</test>
+    <test>com.google.common.truth.FloatSubjectTest.infiniteTolerances</test>
+    <test>com.google.common.truth.FloatSubjectTest.isGreaterThan_int_strictly</test>
+    <test>com.google.common.truth.FloatSubjectTest.isWithinOf</test>
+    <test>com.google.common.truth.ActualValueInferenceTest.autoBox</test>
+    <test>com.google.common.truth.FloatSubjectTest.isAtLeast_int</test>
+    <test>com.google.common.truth.FloatSubjectTest.isEqualTo</test>
+    <test>com.google.common.truth.FloatSubjectTest.isWithinZeroTolerance</test>
+    <test>com.google.common.truth.FloatSubjectTest.isFinite</test>
+    <test>com.google.common.truth.PrimitiveFloatArraySubjectTest.testFloatConstants_matchNextAfter</test>
+    <test>com.google.common.truth.FloatSubjectTest.isAtMost_int</test>
+    <test>com.google.common.truth.FloatSubjectTest.isLessThan_int_strictly</test>
+    <test>com.google.common.truth.SubjectTest.allAssertThatOverloadsAcceptNull</test>
+    <test>com.google.common.truth.FloatSubjectTest.testJ2clCornerCaseZero</test>
+    <test>com.google.common.truth.FloatSubjectTest.isZero</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNonZero</test>
+    <test>com.google.common.truth.FloatSubjectTest.isGreaterThan_int</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNotNaN</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNegativeInfinity</test>
+    <test>com.google.common.truth.FloatSubjectTest.nanTolerances</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNotNaNIsNaN</test>
+    <test>com.google.common.truth.SubjectTest.nullPointerTester</test>
+    <test>com.google.common.truth.FloatSubjectTest.isAtMost_int_withNoExactFloatRepresentation</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNotWithinZeroTolerance</test>
+    <test>com.google.common.truth.FloatSubjectTest.negativeTolerances</test>
+    <test>com.google.common.truth.FloatSubjectTest.isWithinNonFinite</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNaN</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNotWithinOfZero</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNotEqualTo</test>
+    <test>com.google.common.truth.FloatSubjectTest.isWithinOfZero</test>
+    <test>com.google.common.truth.FloatSubjectTest.j2clCornerCaseDoubleVsFloat</test>
+    <test>com.google.common.truth.FloatSubjectTest.isAtLeast_int_withNoExactFloatRepresentation</test>
+    <test>com.google.common.truth.FloatSubjectTest.isLessThan_int</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNotWithinOf</test>
+    <test>com.google.common.truth.FloatSubjectTest.isNotNaNIsNull</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

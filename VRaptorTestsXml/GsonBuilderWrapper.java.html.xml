@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldOptionallyExcludeFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeTwoParams</test>
+    <test>br.com.caelum.vraptor.serialization.I18nMessageSerializationTest.shouldCallJsonSerialization</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeWithCallback</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldNotSerializeNullFieldsByDefault</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeParentFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldOptionallyExcludeChildField</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeCollection</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADog</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeCalendarTimeWithISO8601</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldByPassDeserializationWhenHasNoContent</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessagesInJSON</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldNotIndentedWhenEnvironmentReturnsFalse</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeNonPrimitiveParentFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeAllBasicFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWithoutRootAndParameterNameEqualsJsonProperty</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogNamedDifferently</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldOptionallyIncludeListChildFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldOptionallyRemoveRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldOptionallyExcludeFieldsFromIncludedListChildFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeParentFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeWithoutRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeNonPrimitiveFieldsFromACollection</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializerParseArraysWithRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonBuilderWrapperTest.test</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeAllThanIncludeAndSerialize</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeOmmitedClasses</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWhenMethodHasMoreThanOneArgumentAndJsonIsTheLastOne</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeRecursivelyVersionedJsonFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldOptionallyIncludeFieldAndNotItsNonPrimitiveFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializerParseArraysWithoutRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldHonorRequestHeaderAcceptCharset</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWhenMethodHasMoreThanOneArgumentAndHasNotRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeDateWithISO8601</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.whenNoCharsetHeaderIsFoundThanAssumeItIsUTF8</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeNullfieldswhenRequested</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldIndentedWhenEnvironmentReturnsTrue</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeGenericClass</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldOptionallyRemoveRootIndented</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldUseCollectionConverterWhenItExists</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeOnlyOmmitedFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeCollectionWithPrefixTag</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldUseAlias</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeAllPrimitiveFieldsInACollection</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWithoutRoot</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldOptionallyIncludeChildField</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWithDeserializerAdapter</test>
+    <test>br.com.caelum.vraptor.util.test.MockSerializationResultTest.shouldReturnStringWithObjectSerialized</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldBeAbleToDeserializeADogWhenMethodHasMoreThanOneArgument</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeAllBasicFieldsIndented</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeEnumFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldSerializeVersionedJsonFieldsWithSinceAnnotation</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeAllPrimitiveFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeFromGenericTypeOneParam</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeADogWithCalendarWithISO8601</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonJSONSerializationTest.shouldExcludeAllPrimitiveParentFields</test>
+    <test>br.com.caelum.vraptor.serialization.gson.GsonDeserializerTest.shouldDeserializeADateWithISO8601</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

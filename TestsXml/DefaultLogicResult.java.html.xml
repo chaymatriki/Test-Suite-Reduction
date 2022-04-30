@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.view.DefaultLogicResultTest.canRedirectWhenLogicMethodIsAnnotatedWithHttpGetMethod</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.canRedirectWhenLogicMethodIsNotAnnotatedWithHttpMethods</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldNotWrapValidationExceptionWhenForwarding</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldNotForwardToMethodsDefaultViewWhenResponseIsCommited</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldIncludeReturnValueOnForward</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.cannotRedirectWhenLogicMethodIsAnnotatedWithAnyHttpMethodButGet</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldForwardToMethodsDefaultViewWhenResponseIsNotCommited</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldPutParametersOnFlashScopeOnRedirect</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldNotPutParametersOnFlashScopeOnRedirectIfThereAreNoParameters</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.clientRedirectingWillRedirectToTranslatedUrl</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldForwardToTheRightDefaultValue</test>
+    <test>br.com.caelum.vraptor.view.DefaultLogicResultTest.shouldExecuteTheLogicAndRedirectToItsViewOnForward</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

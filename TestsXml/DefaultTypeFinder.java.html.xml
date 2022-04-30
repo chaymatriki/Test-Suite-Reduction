@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.http.route.RouteBuilderTest.shouldSupportPathsWithDotsAndAsterisks</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultTypeFinderTest.shouldGetTypesCorrectlyOnInheritance</test>
+    <test>br.com.caelum.vraptor.http.route.DefaultTypeFinderTest.shouldGetTypesCorrectly</test>
+    <test>br.com.caelum.vraptor.http.route.RouteBuilderTest.usePatternMatchinForPrimitiveParameters</test>
+    <test>br.com.caelum.vraptor.http.route.RouteBuilderTest.usingRegexesWithAsterisksAtTheEnd</test>
+    <test>br.com.caelum.vraptor.http.route.RouteBuilderTest.usingRegexesWithCurlyBraces</test>
+    <test>br.com.caelum.vraptor.http.route.RouteBuilderTest.usingRegexesWithCurlyBracesNotOnTheEnd</test>
+    <test>br.com.caelum.vraptor.http.route.RouteBuilderTest.usingRegexesWithCurlyBracesNotOnTheEndAndOtherVar</test>
+    <test>br.com.caelum.vraptor.ioc.cdi.CDIBasedContainerTest.shoudRegisterResourcesInRouter</test>
+    <test>br.com.caelum.vraptor.http.route.RouteBuilderTest.fillingUriForPrimitiveParameters</test>
+    <test>br.com.caelum.vraptor.http.route.RouteBuilderTest.usingRegexesWithCurlyBracesNotOnTheEndAndOtherVarAndManyOtherThings</test>
+    <test>br.com.caelum.vraptor.http.route.RouteBuilderTest.usePatternMatchingForRegexParameters</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

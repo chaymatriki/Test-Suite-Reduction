@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFormatDiff[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testReportingMismatchesOnly_isNotEqualTo[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFormatDiff[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testReportingMismatchesOnly_isNotEqualTo[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_respectingOrder[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_respectingOrder[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_ignoringOrder[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testIgnoringExtraRepeatedFieldElements_ignoringOrder[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder_scoped[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder_scoped[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.ProtoSubjectTest.testRepeatedFieldOrder[IMMUTABLE_PROTO2]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

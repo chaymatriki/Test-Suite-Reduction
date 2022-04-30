@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.observer.download.FileDownloadTest.builderShouldUseFileNameWhenNameNotPresent</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.whenResultIsAFileShouldCreateAFileDownload</test>
+    <test>br.com.caelum.vraptor.observer.download.DownloadObserverTest.shouldAcceptFile</test>
+    <test>br.com.caelum.vraptor.observer.download.FileDownloadTest.builderShouldUseNameArgument</test>
+    <test>br.com.caelum.vraptor.observer.download.FileDownloadTest.builderShouldThrowsExceptionIfFileDoesntExists</test>
+    <test>br.com.caelum.vraptor.observer.download.FileDownloadTest.shouldUseHeadersToHttpResponse</test>
+    <test>br.com.caelum.vraptor.observer.download.FileDownloadTest.shouldFlushWholeFileToHttpResponse</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

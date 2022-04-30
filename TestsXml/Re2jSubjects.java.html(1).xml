@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.re2j.Re2jSubjectsTest.containsMatch_string_succeeds</test>
+    <test>com.google.common.truth.extensions.re2j.Re2jSubjectsTest.doesNotMatch_string_succeeds</test>
+    <test>com.google.common.truth.extensions.re2j.Re2jSubjectsTest.matches_string_succeeds</test>
+    <test>com.google.common.truth.extensions.re2j.Re2jSubjectsTest.doesNotMatch_pattern_succeeds</test>
+    <test>com.google.common.truth.extensions.re2j.Re2jSubjectsTest.doesNotContainMatch_string_succeeds</test>
+    <test>com.google.common.truth.extensions.re2j.Re2jSubjectsTest.doesNotContainMatch_pattern_succeeds</test>
+    <test>com.google.common.truth.extensions.re2j.Re2jSubjectsTest.matches_pattern_succeeds</test>
+    <test>com.google.common.truth.extensions.re2j.Re2jSubjectsTest.containsMatch_pattern_succeeds</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

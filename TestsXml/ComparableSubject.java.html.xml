@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.LongSubjectTest.isAtMost_int</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isGreaterThan_failsSmaller</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isAtLeast</test>
+    <test>com.google.common.truth.LongSubjectTest.isLessThan_int</test>
+    <test>com.google.common.truth.FloatSubjectTest.isGreaterThan_int_strictly</test>
+    <test>com.google.common.truth.IterableSubjectCorrespondenceTest.containsAtLeastElementsIn_outOfOrderDoesNotStringify</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isNotInRange</test>
+    <test>com.google.common.truth.FloatSubjectTest.isAtLeast_int</test>
+    <test>com.google.common.truth.DoubleSubjectTest.isGreaterThan_int_strictly</test>
+    <test>com.google.common.truth.FloatSubjectTest.isAtMost_int</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isInRange</test>
+    <test>com.google.common.truth.FloatSubjectTest.isLessThan_int_strictly</test>
+    <test>com.google.common.truth.DoubleSubjectTest.isLessThan_int_strictly</test>
+    <test>com.google.common.truth.ComparableSubjectTest.strings</test>
+    <test>com.google.common.truth.DoubleSubjectTest.isGreaterThan_int</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isLessThan_failsEqual</test>
+    <test>com.google.common.truth.DoubleSubjectTest.isAtLeast_int</test>
+    <test>com.google.common.truth.StackTraceCleanerTest.realWorld</test>
+    <test>com.google.common.truth.FloatSubjectTest.isGreaterThan_int</test>
+    <test>com.google.common.truth.ComparableSubjectTest.rawComparableType</test>
+    <test>com.google.common.truth.ExpectFailureWithStackTraceTest.expectTwoFailures</test>
+    <test>com.google.common.truth.ComparableSubjectTest.comparableType</test>
+    <test>com.google.common.truth.LongSubjectTest.isGreaterThan_int_strictly</test>
+    <test>com.google.common.truth.FloatSubjectTest.isAtMost_int_withNoExactFloatRepresentation</test>
+    <test>com.google.common.truth.LongSubjectTest.isGreaterThan_int</test>
+    <test>com.google.common.truth.DoubleSubjectTest.isAtMost_int</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isEquivalentAccordingToCompareTo</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_onlyCallerException</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isAtMost</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isGreaterThan_failsEqual</test>
+    <test>com.google.common.truth.ComparableSubjectTest.isLessThan_failsGreater</test>
+    <test>com.google.common.truth.ComparableSubjectTest.longs</test>
+    <test>com.google.common.truth.IterableSubjectTest.iterableContainsExactlyOutOfOrderDoesNotStringify</test>
+    <test>com.google.common.truth.FloatSubjectTest.isAtLeast_int_withNoExactFloatRepresentation</test>
+    <test>com.google.common.truth.FloatSubjectTest.isLessThan_int</test>
+    <test>com.google.common.truth.IterableSubjectTest.iterableContainsAtLeastElementsInOutOfOrderDoesNotStringify</test>
+    <test>com.google.common.truth.LongSubjectTest.isLessThan_int_strictly</test>
+    <test>com.google.common.truth.DoubleSubjectTest.isLessThan_int</test>
+    <test>com.google.common.truth.LongSubjectTest.isAtLeast_int</test>
+    <test>com.google.common.truth.ComparableSubjectTest.namedComparableType</test>
+    <test>com.google.common.truth.IterableSubjectCorrespondenceTest.containsExactlyElementsIn_outOfOrderDoesNotStringify</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.observer.download.FileDownloadTest.builderShouldUseFileNameWhenNameNotPresent</test>
+    <test>br.com.caelum.vraptor.observer.download.InputStreamDownloadTest.testConstructWithDownloadBuilder</test>
+    <test>br.com.caelum.vraptor.observer.download.FileDownloadTest.builderShouldUseNameArgument</test>
+    <test>br.com.caelum.vraptor.observer.download.ZipDownloadTest.testConstructWithDownloadBuilder</test>
+    <test>br.com.caelum.vraptor.observer.download.ByteArrayDownloadTest.testConstructWithDownloadBuilder</test>
+    <test>br.com.caelum.vraptor.observer.download.FileDownloadTest.builderShouldThrowsExceptionIfFileDoesntExists</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

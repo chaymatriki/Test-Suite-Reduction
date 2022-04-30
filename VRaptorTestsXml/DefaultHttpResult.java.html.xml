@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.view.DefaultHttpResultTest.shouldThrowResultExceptionIfAnIOExceptionWhenSendErrorWithMessage</test>
+    <test>br.com.caelum.vraptor.view.DefaultHttpResultTest.shouldSetStatusCode</test>
+    <test>br.com.caelum.vraptor.view.DefaultHttpResultTest.shouldHeadersProperly</test>
+    <test>br.com.caelum.vraptor.view.DefaultHttpResultTest.shouldWriteStringBody</test>
+    <test>br.com.caelum.vraptor.view.DefaultHttpResultTest.shouldSendError</test>
+    <test>br.com.caelum.vraptor.view.DefaultHttpResultTest.shouldSendErrorWithMessage</test>
+    <test>br.com.caelum.vraptor.util.test.MockHttpResultTest.test</test>
+    <test>br.com.caelum.vraptor.view.DefaultHttpResultTest.shouldThrowsResultExceptionIfAnIOExceptionWhenSendError</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

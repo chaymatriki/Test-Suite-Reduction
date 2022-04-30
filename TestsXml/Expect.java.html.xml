@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.ExpectFailureWithStackTraceTest.expectTwoFailures</test>
+    <test>com.google.common.truth.ExpectTest.expectSuccessWithFailuresAfterAssume</test>
+    <test>com.google.common.truth.ExpectTest.failWhenCallingFailingAssertionMethodAfterTest</test>
+    <test>com.google.common.truth.ExpectTest.expectTrue</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_callerException</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_onlyCallerException</test>
+    <test>com.google.common.truth.ExpectTest.expectFail10Aligned</test>
+    <test>com.google.common.truth.ExpectTest.expectFail</test>
+    <test>com.google.common.truth.ExpectTest.expectFailWithExceptionBeforeExpectFailures</test>
+    <test>com.google.common.truth.ExpectTest.expectFailWithExceptionWithMessage</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_simpleCase</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_loop</test>
+    <test>com.google.common.truth.ExpectTest.singleExpectationFails</test>
+    <test>com.google.common.truth.ExpectTest.expectFailWithFailuresBeforeAssume</test>
+    <test>com.google.common.truth.ExpectTest.expectFail10WrappedAligned</test>
+    <test>com.google.common.truth.ExpectTest.failWhenCallingThatAfterTest</test>
+    <test>com.google.common.truth.ExpectTest.bash</test>
+    <test>com.google.common.truth.ExpectTest.warnWhenExpectIsNotRule</test>
+    <test>com.google.common.truth.ExpectTest.expectFailWithExceptionNoMessage</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

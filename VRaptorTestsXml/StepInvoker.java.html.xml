@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeAcceptsWithoutArgs</test>
+    <test>br.com.caelum.vraptor.core.DefaultInterceptorHandlerFactoryTest.aspectStyleHandlersShouldBeCached</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAndInternalAcceptsValidationRuleTest.mustNotUseInternalAcceptsAndCustomAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.StepInvokerTest.shouldNotReadInheritedMethods</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldAcceptCustomizedAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldNotInvokeIfDoesNotHaveAround</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldNotInvokeIfDoesNotAccept</test>
+    <test>br.com.caelum.vraptor.interceptor.NoStackParamValidationRuleTest.mustNotReceiveStackAsParameterForBeforeAfterCall</test>
+    <test>br.com.caelum.vraptor.interceptor.StepInvokerTest.shouldFindFirstMethodAnnotatedWithInterceptorStep</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldAlwaysCallAround</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeUsingBeforeAndAfter</test>
+    <test>br.com.caelum.vraptor.interceptor.AcceptsNeedReturnBooleanValidationRuleTest.shouldVerifyIfAcceptsMethodReturnsVoid</test>
+    <test>br.com.caelum.vraptor.interceptor.AcceptsNeedReturnBooleanValidationRuleTest.shouldVerifyIfAcceptsMethodReturnsNonBooleanType</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAndInternalAcceptsValidationRuleTest.shouldValidateIfConstainsOnlyCustomAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.StepInvokerTest.shouldThrowsExceptionWhenInterceptorHasMoreThanOneAnnotatedMethod</test>
+    <test>br.com.caelum.vraptor.interceptor.NoInterceptMethodsValidationRuleTest.shoulWorksFineIfInterceptorHaveAtLeastOneCallableMethod</test>
+    <test>br.com.caelum.vraptor.interceptor.NoInterceptMethodsValidationRuleTest.shoulThrowExceptionIfInterceptorDontHaveAnyCallableMethod</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeAroundWithSimpleStack</test>
+    <test>br.com.caelum.vraptor.interceptor.NoStackParamValidationRuleTest.mustNotReceiveStackAsParameterForAcceptsCall</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeNextIfNotAccepts</test>
+    <test>br.com.caelum.vraptor.core.DefaultInterceptorHandlerFactoryTest.handlerForAspectStyleInterceptorsShouldBeDynamic</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldNotAcceptCustomizedAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.CustomAndInternalAcceptsValidationRuleTest.shouldValidateIfConstainsOnlyInternalAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.StepInvokerTest.shouldFindMethodFromWeldStyleInterceptor</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeCustomAcceptsFailCallback</test>
+    <test>br.com.caelum.vraptor.interceptor.AspectStyleInterceptorHandlerTest.shouldInvokeIfAccepts</test>
+    <test>br.com.caelum.vraptor.interceptor.NoStackParamValidationRuleTest.mustReceiveStackAsParameterForAroundCall</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

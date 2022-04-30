@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_contains[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFormatDiff[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIterableFieldScopeMethodVariants_iterableOfProtosSubject[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.OverloadResolutionTest.testIterableOverloads_testMessages_specializedMethods</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_skipNulls[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsAny[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.OverloadResolutionTest.testMultimapOverloads_testMessages_specializedMethods</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsAtLeast[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_correspondenceToString[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_valuesForKey[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsAtLeast[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsNone[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_skipNulls[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsAny[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.MultimapWithProtoValuesSubjectTest.testFluent_valuesForKey[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_vacuousIfEmptyOrAllNull[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsNone[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testDisplayingDiffsPairedBy[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_vacuousIfEmptyOrAllNull[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_contains[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_correspondenceToString[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsExactly[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testCompareMultipleMessageTypes[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFormatDiff[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testIterableFieldScopeMethodVariants_iterableOfProtosSubject[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testFluent_containsExactly[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_unionsElements[IMMUTABLE_PROTO2]</test>
+    <test>com.google.common.truth.extensions.proto.FieldScopesTest.testFromSetFields_iterables_unionsElements[PROTO3]</test>
+    <test>com.google.common.truth.extensions.proto.IterableOfProtosSubjectTest.testDisplayingDiffsPairedBy[IMMUTABLE_PROTO2]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

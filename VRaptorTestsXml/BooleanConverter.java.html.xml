@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.converter.PrimitiveBooleanConverterTest.shouldConvertOnOff</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldBeAbleToConvertTrueAndFalse</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveBooleanConverterTest.shouldThrowExceptionForInvalidString</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldConvertYesNo</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveBooleanConverterTest.shouldConvertYN</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldNotComplainAboutNull</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveBooleanConverterTest.shouldBeAbleToConvertNumbers</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldConvertYN</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldThrowExceptionForInvalidString</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldConvertEmptyToNull</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveBooleanConverterTest.shouldConvertYesNo</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldConvertOnOff</test>
+    <test>br.com.caelum.vraptor.converter.PrimitiveBooleanConverterTest.shouldConvertIgnoringCase</test>
+    <test>br.com.caelum.vraptor.converter.BooleanConverterTest.shouldConvertIgnoringCase</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

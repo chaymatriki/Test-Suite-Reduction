@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.ClassSubjectTest.testIsAssignableTo_differentTypes</test>
+    <test>com.google.common.truth.ClassSubjectTest.testIsAssignableTo_parent</test>
+    <test>com.google.common.truth.ClassSubjectTest.testIsAssignableTo_same</test>
+    <test>com.google.common.truth.ClassSubjectTest.testIsAssignableTo_reversed</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.SubjectTest.allAssertThatOverloadsAcceptNull</test>
+    <test>com.google.common.truth.SubjectTest.nullPointerTester</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.hasValue_failingWithWrongValue</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.isPresentFailing</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.hasValue</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.isAbsentFailingNull</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.hasValue_failingWithAbsent</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.isAbsentFailing</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.isPresent</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.isPresentFailingNull</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.hasValue_npeWithNullParameter</test>
+    <test>com.google.common.truth.GuavaOptionalSubjectTest.isAbsent</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

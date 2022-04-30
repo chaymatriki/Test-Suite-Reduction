@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testSubjectMethods[Proto 3]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testHasAllRequiredFields_success[Proto 2]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testSubjectMethods[Proto 2]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testHasAllRequiredFields_success[Proto 3]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testDefaultInstance_failure[Proto 3]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testSerializedSize_failure[Proto 3]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testHasAllRequiredFields_failures[Proto 2]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testSerializedSize_failure[Proto 2]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testSerializedSize_success[Proto 2]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testSerializedSize_success[Proto 3]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testIsEqualTo_success[Proto 2]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testDefaultInstance_failure[Proto 2]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testIsEqualTo_success[Proto 3]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testDefaultInstance_success[Proto 3]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testIsEqualTo_failure[Proto 3]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testIsEqualTo_failure[Proto 2]</test>
+    <test>com.google.common.truth.extensions.proto.LiteProtoSubjectTest.testDefaultInstance_success[Proto 2]</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

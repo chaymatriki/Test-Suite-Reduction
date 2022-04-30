@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.converter.DoubleConverterTest.shouldBeAbleToConvertNull</test>
+    <test>br.com.caelum.vraptor.converter.DoubleConverterTest.shouldBeAbleToConvertEmpty</test>
+    <test>br.com.caelum.vraptor.converter.DoubleConverterTest.shouldBeAbleToConvertWithGroupingAndPTBR</test>
+    <test>br.com.caelum.vraptor.converter.DoubleConverterTest.shouldBeAbleToConvertWithGroupingAndENUS</test>
+    <test>br.com.caelum.vraptor.converter.DoubleConverterTest.shouldBeAbleToConvertWithPTBR</test>
+    <test>br.com.caelum.vraptor.converter.DoubleConverterTest.shouldThrowExceptionWhenUnableToParse</test>
+    <test>br.com.caelum.vraptor.converter.DoubleConverterTest.shouldBeAbleToConvertWithENUS</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

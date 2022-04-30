@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+com.google.common.truth.BooleanSubjectTest.isTrue</test>
+    <test>com.google.common.truth.BooleanSubjectTest.nullIsTrueFailing</test>
+    <test>com.google.common.truth.CorrespondenceTest.testTransforming_both_compare_nullTransformedValue</test>
+    <test>com.google.common.truth.CorrespondenceExceptionStoreTest.hasCompareException_empty</test>
+    <test>com.google.common.truth.MathUtilTest.equalsDifferentTypes</test>
+    <test>com.google.common.truth.MathUtilTest.floatEquals</test>
+    <test>com.google.common.truth.CorrespondenceTest.testTransforming_actual_compare_nullTransformedValues</test>
+    <test>com.google.common.truth.CorrespondenceTest.testFrom_compare</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_loop</test>
+    <test>com.google.common.truth.CorrespondenceTest.testTolerance_compare_floats</test>
+    <test>com.google.common.truth.MultimapSubjectTest.setMultimapIsEqualTo_passes</test>
+    <test>com.google.common.truth.CorrespondenceTest.testTransforming_actual_compare</test>
+    <test>com.google.common.truth.MultimapSubjectTest.setMultimapIsEqualTo_fails</test>
+    <test>com.google.common.truth.MultimapSubjectTest.listMultimapIsEqualTo_passes</test>
+    <test>com.google.common.truth.CustomFailureMessageTest.assertWithMessageThat_withPlaceholders</test>
+    <test>com.google.common.truth.MathUtilTest.doubleNotEquals</test>
+    <test>com.google.common.truth.CorrespondenceTest.testTolerance_compare_doublesVsInts</test>
+    <test>com.google.common.truth.BooleanSubjectTest.isTrueFailing</test>
+    <test>com.google.common.truth.CorrespondenceExceptionStoreTest.hasCompareException_hasCompareException</test>
+    <test>com.google.common.truth.BooleanSubjectTest.isFalseFailing</test>
+    <test>com.google.common.truth.CorrespondenceTest.testTolerance_compare_doubles</test>
+    <test>com.google.common.truth.CustomFailureMessageTest.assertWithMessageThat</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_callerException</test>
+    <test>com.google.common.truth.BooleanSubjectTest.nullIsFalseFailing</test>
+    <test>com.google.common.truth.BooleanSubjectTest.isFalse</test>
+    <test>com.google.common.truth.MathUtilTest.doubleEquals</test>
+    <test>com.google.common.truth.CorrespondenceTest.testTransforming_both_compare</test>
+    <test>com.google.common.truth.MathUtilTest.floatNotEquals</test>
+    <test>com.google.common.truth.ExpectWithStackTest.testExpectTrace_simpleCase</test>
+    <test>com.google.common.truth.CorrespondenceTest.testFormattingDiffsUsing_compare</test>
+    <test>com.google.common.truth.CustomFailureMessageTest.placeholdersArentEagerlyEvaluated</test>
+    <test>com.google.common.truth.MultimapSubjectTest.listMultimapIsEqualTo_fails</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

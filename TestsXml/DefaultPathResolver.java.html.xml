@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.view.DefaultPathResolverTest.shouldIgnoreHtmlFormat</test>
+    <test>br.com.caelum.vraptor.view.DefaultPathResolverTest.shouldUseResourceTypeAndMethodNameToResolveJsp</test>
+    <test>br.com.caelum.vraptor.view.DefaultPathResolverTest.shouldUseTheFormatIfSupplied</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

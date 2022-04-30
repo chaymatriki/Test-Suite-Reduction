@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.core.DefaultInterceptorHandlerFactoryTest.handlerForAspectStyleInterceptorsShouldBeDynamic</test>
+    <test>br.com.caelum.vraptor.core.DefaultInterceptorHandlerFactoryTest.aspectStyleHandlersShouldBeCached</test>
+    <test>br.com.caelum.vraptor.core.DefaultInterceptorHandlerFactoryTest.handlerForRegularInterceptorsShouldBeDynamic</test>
+    <test>br.com.caelum.vraptor.ioc.cdi.CDIBasedContainerTest.shoudRegisterResourcesInRouter</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

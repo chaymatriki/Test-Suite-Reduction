@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithStringArrays</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.removeFromTheCollectionIfAnElementIsCreatedWithinACollectionButNoFieldIsSet</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.continuesToFillObjectWithSetIfItIsConvertable</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.throwsExceptionWhenSetterFailsWithOtherException</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.returnsNullWhenInstantiatingAStringForWhichThereAreNoParameters</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.continuesToFillObjectWithListIfItIsConvertable</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.removeFromTheCollectionIfAnElementIsCreatedWithinACollectionButNoFieldIsSetAppartFromTheValueItselfNotAChild</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.shouldInjectOnlyAttributesWithSameType</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithIndexedStringArrays</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithStrings</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithEmptyParameterForInternalWrapperValue</test>
+    <test>br.com.caelum.vraptor.http.iogi.IogiParametersProviderTest.isCapableOfDealingWithGenericsAndMultipleParameters</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>

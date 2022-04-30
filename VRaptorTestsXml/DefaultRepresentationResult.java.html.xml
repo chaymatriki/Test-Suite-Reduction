@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GeneralReport>
+  <Class>
+    <test>&#13;
+br.com.caelum.vraptor.serialization.DefaultRepresentationResultTest.shouldSend404IfNothingIsRendered</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultRepresentationResultTest.whenThereIsNoFormatGivenShouldForwardToDefaultPageWithAlias</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultRepresentationResultTest.whenThereIsNoFormatGivenShouldForwardToDefaultPage</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultRepresentationResultTest.whenThereIsAFormatGivenShouldUseCorrectSerializer</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessages</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultRepresentationResultTest.shouldSortBasedOnPackageNamesLessPriorityToCaelumInitialList3rdPartyLast</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultRepresentationResultTest.shouldSortBasedOnPackageNamesLessPriorityToCaelumInitialList3rdPartyFirst</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultRepresentationResultTest.whenSerializationDontAcceptsFormatItShouldntBeUsed</test>
+    <test>br.com.caelum.vraptor.serialization.DefaultRepresentationResultTest.whenThereIsAFormatGivenShouldUseCorrectSerializerWithAlias</test>
+    <test>br.com.caelum.vraptor.view.DefaultStatusTest.shouldSerializeErrorMessagesInJSON</test>
+    <test>&#13;
+</test>
+  </Class>
+</GeneralReport>
